@@ -1,0 +1,2 @@
+# otss
+Online Training Support System - allows students and prospective students raise tickets to issues and pending issues they might have relating to anything YABATECH. When submitted, the ticket is flagged to the selected department and the administrator is tasked with the responsibility if attending to such tickets. In the event that the selected administrator is not able to attend to such ticket, he can then flag to another department. When completed, the last administrator who attended to this ticket then confirms the ticket as being completed and closed.
